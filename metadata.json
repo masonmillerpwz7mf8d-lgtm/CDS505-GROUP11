@@ -1,0 +1,5 @@
+{
+  "name": "Global Air Quality Lens",
+  "description": "An interactive data storytelling application visualizing global air quality data. It explores pollution levels across countries and cities, offering insights into specific pollutants like PM2.5 and Ozone, and provides actionable health recommendations.",
+  "requestFramePermissions": []
+}
